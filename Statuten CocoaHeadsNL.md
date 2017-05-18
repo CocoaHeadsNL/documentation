@@ -59,7 +59,7 @@ vermogen;
 tweederde van de uitgebrachte stemmen in een vergadering waarin ten
 minste twee/derde van de bestuurders aanwezig of vertegenwoordigd zijn.
 
-###Artikel 5 - Bestuur: Commissies of werkgroepen; taken en bevoegdheden
+### Artikel 5 - Bestuur: Commissies of werkgroepen; taken en bevoegdheden
 1. Behoudens beperkingen volgens deze statuten is het bestuur belast met het besturen van de stichting.
 Elke bestuurder is tegenover de stichting gehouden tot een behoorlijke vervulling van de hem opgedragen taak.
 1. Het bestuur kan commissies of werkgroepen in het leven roepen met gelijktijdige vaststelling van hun taak. Deze commissies of werkgroepen werken onder verantwoordelijkheid van het bestuur. Het bestuur is bevoegd ze op te heffen, de leden daarvan te benoemen en te ontslaan en hun taakomschrijving te herzien.
