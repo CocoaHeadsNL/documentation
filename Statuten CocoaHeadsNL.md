@@ -3,7 +3,7 @@
 
 Vandaag twee februari tweeduizend vijftien verschenen voor mij, mr Cornelis van de Griend te weesp:
 
-1. de heer Jeroen Hendrink Leenarts _(overige gegevens achterwege gelaten)_
+1. de heer Jeroen Hendrik Leenarts _(overige gegevens achterwege gelaten)_
 1. de heer Niels Otto van Hoorn _(overige gegevens achterwege gelaten)_
 1. de heer Bart Hoffman _(overige gegevens achterwege gelaten)_
 
