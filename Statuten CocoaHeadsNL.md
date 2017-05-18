@@ -1,5 +1,5 @@
-##Afschrift
-#Akte van Oprichting en statuten van de stichting CocoaHeadsNL
+## Afschrift
+# Akte van Oprichting en statuten van de stichting CocoaHeadsNL
 
 Vandaag twee februari tweeduizend vijftien verschenen voor mij, mr Cornelis van de Griend te weesp:
 
@@ -9,20 +9,20 @@ Vandaag twee februari tweeduizend vijftien verschenen voor mij, mr Cornelis van 
 
 De verschenen personen verklaarden op te richten een stichting en voor deze stichting vast te stellen de navolgende
 
-##Statuten
+## Statuten
 
-###Artikel 1 - Naam en vestigingsplaats
+### Artikel 1 - Naam en vestigingsplaats
 1. De stichting draagt de naam: **Stichting CocoaHeadsNL**.
 1. De stichting is gevestigd in de gemeente Amsterdam.
 
-###Artikel 2 - Doel
+### Artikel 2 - Doel
 1. De stichting heeft ten doel het verbreiden van kennis van-, het geven van informatie over- en verzorgen van een platform voor ICT ontwikkelaars alsmede het verzorgen van promotionele activteiten en het verrichten van al hetgeen met het vorenstaande verband houdt of daartoe bevordelijk kan zijn.
 1. De stichting heeft geen winstoogmerk.
 1. De stichting tracht haar doel onder meer te bereiken door:
 	- het organiseren van bijeenkomsten, lezingen en voordrachten;
 	- het verzorgen van technisch inhoudelijke sessies al dan niet gecombineerd met promotionale activiteiten ten behoeve van de aanbieder van de betreffende locatie.
 
-###Artikel 3 - Vermogen
+### Artikel 3 - Vermogen
 1. Het tot verwezenlijking van het doel van de stichting bestemde vermogen wordt gevormd door:
 	- giften en donaties;
 	- subsidies en sponsorbijdragen;
@@ -34,7 +34,7 @@ De verschenen personen verklaarden op te richten een stichting en voor deze stic
 Het bestuur kan aan bestuurders een bezoldiging toekennen, mits dit berust op een
 met algemene stemmen genomen besluit van het voltallig bestuur.
 
-###Artikel 4 - Bestuur: samenstelling, benoeming, ontslag
+### Artikel 4 - Bestuur: samenstelling, benoeming, ontslag
 1. Het bestuur bestaat uit ten minste drie natuurlijke personen. Het bestuur stelt met inachtneming van het hiervoor gestelde het aantal bestuurders vast.
 Een niet-voltallig bestuur behoudt zijn bevoegdheden.
 1. De bestuurders worden benoemd door het bestuur.
@@ -67,7 +67,7 @@ Elke bestuurder is tegenover de stichting gehouden tot een behoorlijke vervullin
 1. Het bestuur is bevoegd tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen mits dit berust op een met algemene stemmen genomen besluit van het voltallig bestuur.
 Het bestuur is niet bevoegd tot het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een ander sterk maakt of zich tot zekerheid voor een schuld van een ander verbindt.
 
-###Artikel 6 - Bestuur: vertegenwoordiging
+### Artikel 6 - Bestuur: vertegenwoordiging
 1. Het bestuur vertegenwoordigt de stichting.
 1. De vertegenwoordigingsbevoegdheid komt bovendien toe aan twee gezamenlijk
 handelende bestuurders.
@@ -79,7 +79,7 @@ afzonderlijk, om de stichting binnen de grenzen van die volmacht te vertegenwoor
 3
 1. De in lid 4 van artikel 5 opgenomen uitsluiting en voorwaarde gelden mede voor de bevoegdheid tot vertegenwoordiging van de stichting ter zake van die handelingen.
 
-###Artikel 7 - Bestuur: bijeenroeping, besluitvorming in en buiten vergadering
+### Artikel 7 - Bestuur: bijeenroeping, besluitvorming in en buiten vergadering
 1. De voorzitter alsmede ten minste twee van de overige bestuurders gezamenlijk zijn bevoegd een vergadering van het bestuur bijeen te roepen.
 1. 
  - De bijeenroeping van de vergaderingen van het bestuur geschiedt door de in het voorgaande lid bedoelde personen, dan wel namens hen door de secretaris, schriftelijk, met inachtneming van een termijn van ten minste zeven dagen, de dag van bijeenroeping en die van de vergadering niet meegerekend, onder opgave van de dag, het aanvangstijdstip en de plaats van de vergadering alsmede van de te behandelen onderwerpen (agenda).
@@ -110,7 +110,7 @@ Een besluit is dan genomen als de vereiste meerderheid van de bestuurders zich v
 Onder een schriftelijke verklaring wordt mede begrepen een langs elektronische weg toegezonden leesbaar en reproduceerbaar bericht aan het adres dat het bestuur voor dit doel heeft vastgesteld en aan alle bestuurders bekend heeft gemaakt.
 Van elk buiten vergadering genomen besluit wordt mededeling gedaan in de eerstvolgende vergadering, welke mededeling in de notulen van die vergadering wordt vermeld. De uitgebrachte schriftelijke stemmen worden bij deze notulen gevoegd.
 
-###Artikel 8 - Leiding van de vergaderingen, notulen
+### Artikel 8 - Leiding van de vergaderingen, notulen
 1. De voorzitter, casu quo diens waarnemer, leidt de vergaderingen van het bestuur; bij zijn afwezigheid voorziet de vergadering zelf in haar leiding.
 1. De voorzitter van de vergadering bepaalt de wijze waarop de stemmingen in de vergaderingen worden gehouden.
 Als echter een of meer bestuurders dit vóór de stemming verlangen, zullen stemmingen over de benoeming van personen schriftelijk geschieden en
@@ -123,7 +123,7 @@ Wordt onmiddellijk na het uitspreken van het oordeel van de voorzitter de juisth
 De notulen worden -nadat zij zijn vastgesteld- door de voorzitter en de secretaris
 ondertekend.
 
-###Artikel 9 - Boekjaar; verslaggeving
+### Artikel 9 - Boekjaar; verslaggeving
 1. Het boekjaar van de stichting is het kalenderjaar.
 1. Het bestuur sluit per de laatste dag van het boekjaar de boeken van de stichting af
 en maakt daaruit zo spoedig mogelijk, doch uiterlijk binnen zes maanden na afloop van het boekjaar, een balans en een staat van baten en lasten op over het verstreken boekjaar.
@@ -132,7 +132,7 @@ Deze stukken worden door het bestuur in een vergadering, te houden binnen zeven 
 1. Het bestuur kan, alvorens tot de vaststelling van de balans en de staat van baten en lasten over te gaan, deze stukken doen onderzoeken door een door hem aan te wijzen accountant als bedoeld in artikel 2:393 lid 1 Burgerlijk Wetboek.
 Deze deskundige brengt omtrent zijn onderzoek verslag uit aan het bestuur en legt daaromtrent een verklaring af.
 
-###Artikel 10 - Reglementen
+### Artikel 10 - Reglementen
 1. Het bestuur kan een of meer reglementen vaststellen waarin wordt opgenomen al hetgeen naar zijn oordeel regeling of nadere regeling behoeft. Een reglement wordt schriftelijk vastgelegd met vermelding van de dag waarop het van kracht wordt, welke datum niet kan zijn gelegen vóór die waarop het besluit werd genomen.
 Het bestuur kan elk reglement wijzigen en ook intrekken.
 Een besluit van het bestuur tot vaststelling van een reglement, tot wijziging of tot intrekking daarvan, kan slechts worden genomen met een meerderheid van ten minste tweederde van de uitgebrachte stemmen in een vergadering waarin ten minste drievierde van de bestuurders aanwezig of vertegenwoordigd is.
@@ -141,7 +141,7 @@ minste drievierde van de bestuurders aanwezig of vertegenwoordigd is.
 1. Bepalingen opgenomen in een reglement die strijdig zijn met de wet of met deze
 statuten, zijn onverbindend.
 
-###Artikel 11 - Statutenwijziging
+### Artikel 11 - Statutenwijziging
 1. Het bestuur is bevoegd de statuten te wijzigen.
 1. Het besluit tot statutenwijziging kan slechts worden genomen met een
 meerderheid van ten minste tweederde van de uitgebrachte stemmen in een vergadering waarin ten minste drievierde van de bestuurders aanwezig of vertegenwoordigd is.
@@ -153,10 +153,10 @@ Het bestuur kan een of meer bestuurders en/of anderen, zowel gezamenlijk als afz
 Een verleende machtiging sluit, tenzij daarin anders is vermeld, de bevoegdheid in tot het verlenen van opdracht aan de notaris.
 1. De bestuurders zijn verplicht een authentiek afschrift van de wijziging en een volledige doorlopende tekst van de gewijzigde statuten neer te leggen ten kantore van het handelsregister.
 
-###Artikel 12 - Fusie; splitsing; omzetting
+### Artikel 12 - Fusie; splitsing; omzetting
 Op een besluit van het bestuur tot fusie of splitsing in de zin van Titel 7 van Boek 2 Burgerlijk Wetboek en op een besluit van het bestuur tot omzetting van de stichting in een andere rechtsvorm overeenkomstig artikel 2:18 Burgerlijk Wetboek, is het bepaalde in de leden 2, 3 en 4 van het vorige artikel zoveel mogelijk van overeenkomstige toepassing, onverminderd de eisen van de wet.
 
-###Artikel 13 - Ontbinding en vereffening
+### Artikel 13 - Ontbinding en vereffening
 1. Het bestuur is bevoegd de stichting te ontbinden.
 Op het besluit tot ontbinding is het bepaalde in artikel 11, leden 2, 3 en 4 van overeenkomstige toepassing.
 1. Het bestuur kan bij zijn besluit tot ontbinding de bestemming vaststellen van een eventueel batig saldo. Deze bestemming dient zoveel mogelijk in overeenstemming te zijn met het doel van de stichting.
@@ -175,7 +175,7 @@ het ophouden te bestaan van de stichting opgave aan het handelsregister.
 1. Na afloop van de vereffening blijven de boeken en bescheiden en andere
 gegevensdragers van de ontbonden stichting gedurende de door de wet bepaalde termijn onder berusting van de bij het besluit tot ontbinding, dan wel, bij gebreke daarvan, door de vereffenaars aangewezen persoon. Deze persoon is gehouden zijn aanwijzing ter inschrijving op te geven aan het handelsregister.
 
-###Slotverklaring
+### Slotverklaring
 
 Tenslotte is door de oprichters verklaard:
 
@@ -186,7 +186,7 @@ Benoemd zijn tot bestuurder in de achter hun naam vermelde functie:
  - de heer Hoffman, voornoemd, penningmeester.
 1. Het eerste boekjaar van de stichting eindigt op eenendertig december tweeduizend vijftien.
 
-###Slot
+### Slot
 WAARVAN AKTE is verleden te Weesp, op de datum in het hoofd van deze akte vermeld.
 
 De verschenen personen zijn mij, notaris, bekend. De zakelijke inhoud van de akte is aan hen opgegeven en toegelicht. De verschenen personen hebben verklaard op volledige voorlezing van de akte geen prijs te stellen, tijdig voor het verlijden van de akte van de inhoud van de akte te hebben kennis genomen en daarmee in te stemmen. Deze akte is beperkt voorgelezen en onmiddellijk daarna ondertekend, eerst door de verschenen personen en vervolgens door mij, notaris.
